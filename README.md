@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abuzahra98)](https://github.com/abuzahra98/github-readme-stats)
+![Juancer's github stats](https://github-readme-stats.vercel.app/api?username=abuzahra98&show_icons=true&count_private=true&bg_color=150,212529,343a40&text_color=fff&icon_color=e9ecef&custom_title=My+GitHub+stats&title_color=4d908e)
